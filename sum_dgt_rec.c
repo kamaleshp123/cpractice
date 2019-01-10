@@ -15,7 +15,7 @@ int sum_dgt(int n)
                 return sum;
 
 }
-
+//////////////////////
 int sum_rec(int n)
 {
         int sum;
